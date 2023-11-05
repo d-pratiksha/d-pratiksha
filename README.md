@@ -1,5 +1,5 @@
 - 👋 Hi, I’m pratiksha dixit
-- 👀 I’m interested in cp
+- 👀 I’m a beginner in cp
 - 🌱 I’m currently learning web dev
 
 <!---
